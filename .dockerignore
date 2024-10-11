@@ -1,0 +1,13 @@
+/*
+
+!/config/
+!/html/
+
+/html/*
+!/html/wp-content/
+
+/html/wp-content/uploads/*
+
+/html/wp-content/themes/tribe/node_modules/
+
+/html/wp-content/debug.log
